@@ -11,8 +11,8 @@ pipeline {
 	
     environment {
     SNAP_REPO      = 'my-project-repo'
-    RELEASE_REPO   = 'my-project-repo'
-    CENTRAL_REPO   = 'maven-central'
+    RELEASE-REPO   = 'my-project-repo'
+    CENTRAL-REPO   = 'maven-central'
     NEXUS-GRP-REPO = 'maven-public'
     NEXUSIP        = '172.31.31.195'
     NEXUSPORT      = '8081'
