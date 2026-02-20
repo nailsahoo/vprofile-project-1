@@ -13,7 +13,7 @@ pipeline {
     SNAP_REPO      = 'my-project-repo'
     RELEASE_REPO   = 'my-project-repo'
     CENTRAL_REPO   = 'maven-central'
-    NEXUS_GRP_REPO = 'maven-public'
+    NEXUS-GRP-REPO = 'maven-public'
     NEXUSIP        = '172.31.31.195'
     NEXUSPORT      = '8081'
     NEXUS_LOGIN    = 'nexuslogin'
